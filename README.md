@@ -12,6 +12,6 @@
 
 1. 打开 [Releases](https://github.com/qteiuqtety/MQ/releases)
 2. 下载对应 zip
-3. 解压后运行其中的 `.exe`（请整夹复制，保持 `_internal` 等依赖文件夹在一起）
+3. 解压后运行其中的 \.exe\（请整夹复制，保持 \_internal\ 等依赖文件夹在一起）
 
 后续煤球系列工具都会放在本仓库 Releases 中。
